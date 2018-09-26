@@ -1,2 +1,2 @@
 # hello-world
-as part of tutorial
+Hi, I'm Austin1800. I'm a big cynical introverted nerd.
